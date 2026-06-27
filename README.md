@@ -2,11 +2,6 @@
 
 A lightweight and responsive social media web application built using HTML, CSS, and JavaScript. BlinkX demonstrates the core functionality of a social networking platform with a clean, mobile-first interface.
 
-## 🌐 Live Demo
-
-🔗 https://blinkcart-uq1w.onrender.com
-
-
 ## Overview
 
 BlinkX was developed as part of my **CodeAlpha Full Stack Development Internship** to practice frontend development and build an interactive web application.
