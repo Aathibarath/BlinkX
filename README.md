@@ -19,23 +19,6 @@ A modern, lightweight social media platform with a clean black and white design,
 - 🔄 Dynamic feed showing posts from followed users
 - ⏱️ Timestamp for each post
 
-- ```markdown
-  
-# 📷 Application Screenshots
-
-| 🏠 Home Feed | 🔍 Search |
-|--------------|-----------|
-| ![](screenshots/home1.png) | ![](screenshots/search.png) |
-
-| ➕ Create Post | 👤 Profile |
-|---------------|------------|
-| ![](screenshots/post.png) | ![](screenshots/profile.png) |
-
-| 🌙 Dark Theme |
-|---------------|
-| ![](screenshots/darktheme.png) |
-```
-
 
 ### User Profile
 - 👤 Profile picture with initials
@@ -108,6 +91,7 @@ blinkx/
 3. Write a caption
 4. Click "Post"
 
+
 ### Interact with Posts
 - **Like**: Click the heart icon
 - **Comment**: Type in the comment box and click "Post"
@@ -166,6 +150,23 @@ All data is stored in the browser's LocalStorage:
 - Fast load time
 - Smooth 60fps animations
 - Optimized for mobile networks
+
+- - ```markdown
+  
+# 📷 Application Screenshots
+
+| 🏠 Home Feed | 🔍 Search |
+|--------------|-----------|
+| ![](screenshots/home1.png) | ![](screenshots/search.png) |
+
+| ➕ Create Post | 👤 Profile |
+|---------------|------------|
+| ![](screenshots/post.png) | ![](screenshots/profile.png) |
+
+| 🌙 Dark Theme |
+|---------------|
+| ![](screenshots/darktheme.png) |
+```
 
 ## License
 
