@@ -120,7 +120,7 @@ MIT License
 
 B.Tech Computer Science Engineering
 
-GitHub: https://github.com/Aathibarath
+GitHub: https://github.com/Aathibarath/BlinkX
 
 ---
 
